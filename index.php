@@ -124,5 +124,26 @@ else {
     accueil();
     accueil();
     accueil();
+    accueil();    accueil();
+    accueil();
+    accueil();
+    accueil();
+    accueil();
+    accueil();
+    accueil();
+    accueil();    accueil();
+    accueil();
+    accueil();
+    accueil();
+    accueil();
+    accueil();
+    accueil();
+    accueil();    accueil();
+    accueil();
+    accueil();
+    accueil();
+    accueil();
+    accueil();
+    accueil();
     accueil();
 }
